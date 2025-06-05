@@ -2,6 +2,10 @@
 weather warnsum display 天氣資訊  
 
 ___
+[ v.2.4.3 ] [ 2025.06.05 ]
+- Add Favicon
+
+___
 [ v.2.4.2 ] [ 2025.05.09 ]
 - Change path : weatherIcon & warningIcon
 - Change size : warningIcon
