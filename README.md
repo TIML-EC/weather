@@ -2,6 +2,9 @@
 weather warnsum display 天氣資訊  
 
 ___
+[ v.2.5.1 ] [ 2026.04.16 ]
+- 優化手機及電腦通用
+___
 [ v.2.4.3 ] [ 2025.06.05 ]
 - Added Favicon
 
