@@ -2,12 +2,14 @@
 weather warnsum display 天氣資訊  
 
 ___
+[ v.2.5.2 ] [ 2026.07.31 ]
+因10min wind.路徑改動，無法直接讀取csv，固移除風速資訊。
+___
 [ v.2.5.1 ] [ 2026.04.16 ]
 - 優化手機及電腦通用
 ___
 [ v.2.4.3 ] [ 2025.06.05 ]
 - Added Favicon
-
 ___
 [ v.2.4.2 ] [ 2025.05.09 ]
 - Change path : weatherIcon & warningIcon
